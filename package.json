@@ -21,10 +21,10 @@
   ],
   "dependencies": {
     "axios": "^0.21.1",
-    "vue": "3.2.33",
+    "vue": "3.3.0",
     "vue-router": "^4.0.5",
     "vuex": "^4.0.0",
-    "pinia": "^2.0.14"
+    "pinia": "^2.1.4"
   },
   "devDependencies": {
     "@ehutch79/vite-eslint": "0.0.1",

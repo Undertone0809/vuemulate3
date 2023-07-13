@@ -39,7 +39,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/huzhushan/vue3-element-admin.git
+git clone https://github.com/Undertone0809/vuemulate3
 
 # 进入项目目录
 cd vue3-element-admin
@@ -62,11 +62,11 @@ npm run build
 
 ## 更新日志
 
-[CHANGELOG](https://github.com/huzhushan/vue3-element-admin/releases)
+[CHANGELOG](https://github.com/Undertone0809/vuemulate3/releases)
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/huzhushan/vue3-element-admin/issues/new/choose) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/Undertone0809/vuemulate3/issues/new/choose) 或者提交一个 Pull Request。
 
 **Pull Request:**
 
@@ -102,15 +102,6 @@ npm run build
 | :----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                   not support                                                                    |                                                                  last 2 versions                                                                   |                                                                        last 2 versions                                                                        |                                                                      last 2 versions                                                                      |                                                                      last 2 versions                                                                      |
 
-## 维护者
-
-[@huzhushan](https://github.com/huzhushan)
-
-## 捐赠
-
-如果你觉得这个项目对你有帮助，你可以帮作者买一杯果汁表示支持:tropical_drink:
-![donate](https://huzhushan.gitee.io/vue3-element-admin/donate.png)
-
 ## 交流
 
 `Vue3-Element-Admin` 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，同时也提供 QQ 交流群使用问题欢迎在群内提问。
@@ -119,4 +110,4 @@ npm run build
 
 ## License
 
-[MIT © ZSEN-2020](./LICENSE)
+[MIT © Zeeland-2023](./LICENSE)
