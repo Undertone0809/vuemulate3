@@ -58,7 +58,10 @@ export const useMenus = defineStore('menu', () => {
           icon: item.icon,
         }
         if (item.children) {
-          if (item.children.filter(child => !child.hidden).length <= 1) {
+          if (
+            item.children.filter(child => !child.hidden).length <= 1 &&
+            !item.alwaysShow
+          ) {
             menu.url = generateUrl(item.children[0].path, menu.url)
           } else {
             menu.children = getFilterMenus(item.children, menu.url)

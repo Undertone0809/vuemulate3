@@ -100,6 +100,8 @@ export default [
         meta: {
           title: 'menu.nest',
         },
+        // 儅子路由只有一個時，可以通過alwaysShow: true來實現父、子路由同時展示，形成嵌套菜單
+        // alwaysShow: true,
         children: [
           {
             path: 'page1',
