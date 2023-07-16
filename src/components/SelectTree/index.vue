@@ -14,7 +14,7 @@
  *  │ Ctrl│    │Alt │         Space         │ Alt│    │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
  *  └─────┴────┴────┴───────────────────────┴────┴────┴────┴────┘ └───┴───┴───┘ └───────┴───┴───┘
  * 
- * @Descripttion: 
+ * @Description:
  * @version: 
  * @Date: 2021-09-18 17:17:46
  * @LastEditors: huzhushan@126.com

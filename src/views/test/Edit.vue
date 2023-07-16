@@ -23,7 +23,7 @@
  * 
  *            佛祖保佑       永不宕机     永无BUG
  * 
- * @Descripttion: 
+ * @Description:
  * @version: 
  * @Date: 2021-04-28 16:50:05
  * @LastEditors: huzhushan@126.com
