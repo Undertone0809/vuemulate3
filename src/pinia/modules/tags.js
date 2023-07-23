@@ -43,6 +43,7 @@ export const useTags = defineStore('tags', {
       } else {
         this.tagList.splice(this.activePosition + 1, 0, target)
       }
+      this.tagList = this.tagList.filter((a, b) => a.name !== b.name)
       // 保存到localStorage
       setItem(TAGLIST, this.tagList)
 
@@ -99,6 +100,7 @@ export const useTags = defineStore('tags', {
       const index = this.tagList.findIndex(v => v.path === tag.path)
       if (index > -1) {
         this.tagList[index] = Object.assign({}, this.tagList[index], tag)
+        this.tagList = this.tagList.filter((a, b) => a.name !== b.name)
         // 保存到localStorage
         setItem(TAGLIST, this.tagList)
       }
